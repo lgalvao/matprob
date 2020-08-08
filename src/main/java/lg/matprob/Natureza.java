@@ -1,5 +1,5 @@
 package lg.matprob;
 
 public enum Natureza {
-    ADICAO, SUBTRACAO;
+    INICIO, ADICAO, SUBTRACAO;
 }
